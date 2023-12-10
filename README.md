@@ -1,2 +1,2 @@
 # OCaml_SQL
-This was my final project in one of my CS courses in UIC. The project idea was to implement a toy SQL in OCaml.
+This was my final project in my CS 476 course in UIC. The project idea was to implement a toy SQL in OCaml.
