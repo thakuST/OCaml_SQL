@@ -228,7 +228,8 @@ let rec eval_create_table create_table =
     let updated_database = (create_table.table_name, new_table) :: database in
     (new_table, updated_database)
 
-(* For the above query/function, can be also done as taking database as an argument, so you could call them again on the updated database.  *)
+(* Prof Review: For the above query/function, can be also done as taking database as an argument, so you could call them again on the *)
+(* updated database.  *)
 
 
 let create_table =
